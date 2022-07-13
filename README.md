@@ -1,6 +1,6 @@
 # Random-store
 
-Shiping cart UI using: 
+Shoping cart UI using: 
 ------------------------------------------------
 * Vite
 * TypeScript
