@@ -6,6 +6,7 @@
 
 .gridContainer{
   justify-content: center;
+  margin-top: 0;
 }
 
 .cartButton{
@@ -15,5 +16,6 @@
 }
 
 body{
-  background-color: #d5e1f45d
+  background-color: #d5e1f45d;
+  margin: 0;
 }
