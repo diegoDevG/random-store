@@ -1,0 +1,5 @@
+.productImg{
+    object-fit: fill;
+    padding: 20px;
+    box-sizing: border-box;
+}
